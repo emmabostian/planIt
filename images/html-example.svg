@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="503px" height="123px" viewBox="0 0 503 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-96.000000, -418.000000)">
+            <g id="Group-2" transform="translate(95.000000, 415.000000)">
+                <text id="&lt;p-class=“note”&gt;My-c" font-family="AndaleMono, Andale Mono" font-size="20" font-weight="normal">
+                    <tspan x="18" y="82" fill="#9013FE">&lt;p class=</tspan>
+                    <tspan x="126.017578" y="82" fill="#FF009C">“note”</tspan>
+                    <tspan x="198.029297" y="82" fill="#9013FE">&gt;</tspan>
+                    <tspan x="210.03125" y="82" fill="#000000">My cat hates chicken</tspan>
+                    <tspan x="450.070312" y="82" fill="#9013FE">&lt;/p&gt;</tspan>
+                </text>
+                <text id="opening-tag" font-family="IBMPlexSans, IBM Plex Sans" font-size="14" font-weight="normal" fill="#9013FE">
+                    <tspan x="85" y="15">opening tag</tspan>
+                </text>
+                <text id="element" font-family="IBMPlexSans, IBM Plex Sans" font-size="14" font-weight="normal" fill="#FA9F09">
+                    <tspan x="232" y="14">element</tspan>
+                </text>
+                <text id="content" font-family="IBMPlexSans, IBM Plex Sans" font-size="14" font-weight="normal" fill="#000000">
+                    <tspan x="307" y="125">content</tspan>
+                </text>
+                <text id="attribute" font-family="IBMPlexSans, IBM Plex Sans" font-size="14" font-weight="normal" fill="#FF009C">
+                    <tspan x="92" y="125">attribute</tspan>
+                </text>
+                <text id="closing-tag" font-family="IBMPlexSans, IBM Plex Sans" font-size="14" font-weight="normal" fill="#9013FE">
+                    <tspan x="435" y="14">closing tag</tspan>
+                </text>
+                <path d="" id="Path-4" stroke="#979797"></path>
+                <path d="" id="Path-7" stroke="#979797"></path>
+                <polyline id="Path-8" stroke="#FA9F09" points="2.46956462 77.214247 2.46956462 34.0555412 503.257021 34.0555412 503.257021 77.214247"></polyline>
+                <path d="M257.550071,17.8544226 L257.550071,34.5" id="Path-9" stroke="#FA9F09"></path>
+                <polyline id="Path-5" stroke="#9013FE" points="21.1569827 66.4548622 21.1569827 44.805644 206.72994 44.805644 206.72994 66.4548622"></polyline>
+                <path d="M114.144562,44.8014982 L114.144562,18.6551544" id="Path-6" stroke="#9013FE"></path>
+                <polyline id="Path-10" stroke="#9013FE" points="450.053054 69.155156 450.053054 50.5825254 494.757751 50.5825254 494.757751 69.155156"></polyline>
+                <path d="M472.497313,50.9436 L472.497313,18.4775222" id="Path-11" stroke="#9013FE"></path>
+                <polyline id="Path-12" stroke="#000000" points="210.768468 86.4591745 210.768468 102.863775 449.795774 102.863775 449.795774 86.4591745"></polyline>
+                <path d="M330.718432,103.186454 L330.718432,113.559033" id="Path-13" stroke="#000000"></path>
+                <polyline id="Path-15" stroke="#FF009C" points="55.4400129 83.5758787 55.4400129 94.8679199 193.300414 94.8679199 193.300414 83.5758787"></polyline>
+                <path d="M118.281838,95.0182218 L118.281838,111.490523" id="Path-16" stroke="#FF009C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

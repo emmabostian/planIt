@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="833px" height="286px" viewBox="0 0 833 286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-weight="bold">
+        <g id="Artboard-4" transform="translate(-47.000000, -207.000000)">
+            <g id="Group" transform="translate(47.000000, 200.000000)">
+                <text id="front-end-developer" font-size="64" fill="#50E3C2">
+                    <tspan x="119" y="145">front-end developer</tspan>
+                </text>
+                <text id="css/html-developer" font-size="20" fill="#9BC1EE">
+                    <tspan x="34" y="218">css/html developer</tspan>
+                </text>
+                <text id="front-end-web-design" font-size="24" fill="#008B6F">
+                    <tspan x="542" y="285">front-end web designer</tspan>
+                </text>
+                <text id="ui-developer/enginee" font-size="24" fill="#9BC1EE">
+                    <tspan x="558" y="199">ui developer/engineer</tspan>
+                </text>
+                <text id="mobile-front-end-dev" font-size="24" fill="#008B6F">
+                    <tspan x="289" y="231">mobile front-end developer</tspan>
+                </text>
+                <text id="full-stack-engineer/" font-size="36" fill="#50E3C2">
+                    <tspan x="0" y="285">full-stack engineer/developer</tspan>
+                </text>
+                <text id="front-end-SEO-expert" font-size="24" fill="#94D4C6">
+                    <tspan x="274" y="186">front-end SEO expert</tspan>
+                </text>
+                <text id="front-end-accessibil" font-size="20" fill="#9BC1EE">
+                    <tspan x="503" y="72">front-end accessibility expert</tspan>
+                </text>
+                <text id="front-end-testing/QA" font-size="24" fill="#94D4C6">
+                    <tspan x="336" y="25">front-end testing/QA</tspan>
+                </text>
+                <text id="front-end-engineer" font-size="36" fill="#1E8870">
+                    <tspan x="161" y="69">front-end engineer</tspan>
+                </text>
+                <text id="javascript-developer" font-size="20" fill="#94D4C6">
+                    <tspan x="642" y="238">javascript developer</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

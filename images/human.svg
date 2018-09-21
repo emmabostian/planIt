@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="237px" height="95px" viewBox="0 0 237 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-6" transform="translate(-31.000000, -42.000000)">
+            <g id="Group" transform="translate(31.000000, 39.000000)">
+                <text id="If-we-think-of-a-hum" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="13" font-weight="bold" fill="#4A4A4A">
+                    <tspan x="0.0695" y="13">If we think of a human as a web page…</tspan>
+                </text>
+                <text id="&lt;html&gt;" font-family="IBMPlexSans, IBM Plex Sans" font-size="13" font-weight="normal" fill="#FF009C">
+                    <tspan x="0.284" y="44">&lt;html&gt;</tspan>
+                </text>
+                <text id="{css}" font-family="IBMPlexSans, IBM Plex Sans" font-size="13" font-weight="normal" fill="#FF009C">
+                    <tspan x="98.4795" y="44">{css}</tspan>
+                </text>
+                <text id=".js()" font-family="IBMPlexSans, IBM Plex Sans" font-size="13" font-weight="normal" fill="#FF009C">
+                    <tspan x="192.0865" y="44">.js()</tspan>
+                </text>
+                <text id="bones" font-family="IBMPlexSans, IBM Plex Sans" font-size="9" font-weight="normal" fill="#000000">
+                    <tspan x="9.152" y="63">bones</tspan>
+                </text>
+                <text id="hair-color" font-family="IBMPlexSans, IBM Plex Sans" font-size="9" font-weight="normal" fill="#000000">
+                    <tspan x="92.0505" y="63">hair color</tspan>
+                </text>
+                <text id="personality" font-family="IBMPlexSans, IBM Plex Sans" font-size="9" font-weight="normal" fill="#000000">
+                    <tspan x="184.4235" y="63">personality</tspan>
+                </text>
+                <text id="skills" font-family="IBMPlexSans, IBM Plex Sans" font-size="9" font-weight="normal" fill="#000000">
+                    <tspan x="192.195" y="80">skills</tspan>
+                </text>
+                <text id="eye-color" font-family="IBMPlexSans, IBM Plex Sans" font-size="9" font-weight="normal" fill="#000000">
+                    <tspan x="93.1445" y="80">eye color</tspan>
+                </text>
+                <text id="skin-color" font-family="IBMPlexSans, IBM Plex Sans" font-size="9" font-weight="normal" fill="#000000">
+                    <tspan x="92.042" y="97">skin color</tspan>
+                </text>
+                <text id="muscles" font-family="IBMPlexSans, IBM Plex Sans" font-size="9" font-weight="normal" fill="#000000">
+                    <tspan x="4.6745" y="80">muscles</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

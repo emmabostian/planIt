@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="253px" height="372px" viewBox="0 0 253 372" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-2317.000000, -346.000000)">
+            <g id="Group-5" transform="translate(2317.000000, 339.000000)">
+                <text id="index.html-copy" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="18" font-weight="bold" fill="#4A4A4A">
+                    <tspan x="0" y="63">index.html</tspan>
+                </text>
+                <text id="&lt;!DOCTYPE-html&gt;-&lt;htm" font-family="AndaleMono, Andale Mono" font-size="18" font-weight="normal">
+                    <tspan x="0" y="98" fill="#4A4A4A">&lt;!DOCTYPE html&gt;</tspan>
+                    <tspan x="0" y="118" fill="#4A4A4A">&lt;html&gt;</tspan>
+                    <tspan x="0" y="138" fill="#4A4A4A">&lt;head&gt;</tspan>
+                    <tspan x="0" y="158" fill="#FF009C">  &lt;style&gt;</tspan>
+                    <tspan x="0" y="178" fill="#FF009C">		h1 {</tspan>
+                    <tspan x="0" y="198" fill="#FF009C">			color: blue;</tspan>
+                    <tspan x="0" y="218" fill="#FF009C">			font-size: 18px;</tspan>
+                    <tspan x="0" y="238" fill="#FF009C">		}</tspan>
+                    <tspan x="0" y="258" fill="#FF009C">  &lt;/style&gt;</tspan>
+                    <tspan x="0" y="278" fill="#4A4A4A">&lt;/head&gt;</tspan>
+                    <tspan x="0" y="298" fill="#4A4A4A"></tspan>
+                    <tspan x="0" y="318" fill="#4A4A4A">&lt;body&gt;</tspan>
+                    <tspan x="0" y="338" fill="#4A4A4A">…</tspan>
+                    <tspan x="0" y="358" fill="#4A4A4A">&lt;/body&gt;</tspan>
+                    <tspan x="0" y="378" fill="#4A4A4A">&lt;/html&gt;</tspan>
+                </text>
+                <text id="Style-tag" font-family="IBMPlexSans, IBM Plex Sans" font-size="24" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="0" y="25">Style tag</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

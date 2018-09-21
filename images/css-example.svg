@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="589px" height="201px" viewBox="0 0 589 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-5" transform="translate(-162.000000, -73.000000)">
+            <g id="Group" transform="translate(162.000000, 70.000000)">
+                <text id="p-{" font-family="AndaleMono, Andale Mono" font-size="18" font-weight="normal" fill="#9013FE">
+                    <tspan x="238" y="16">p {</tspan>
+                </text>
+                <text id="color:-pink;-font-si" font-family="AndaleMono, Andale Mono" font-size="18" font-weight="normal">
+                    <tspan x="264" y="40" fill="#FF009C">color:</tspan>
+                    <tspan x="328.810547" y="40" fill="#000000"> pink;</tspan>
+                    <tspan x="264" y="60" fill="#FF009C">font-size:</tspan>
+                    <tspan x="372.017578" y="60" fill="#000000"> 12px;</tspan>
+                    <tspan x="264" y="80" fill="#FF009C">font-family:</tspan>
+                    <tspan x="393.621094" y="80" fill="#000000"> ‘Arial’</tspan>
+                </text>
+                <text id="}" font-family="AndaleMono, Andale Mono" font-size="18" font-weight="normal" fill="#9013FE">
+                    <tspan x="238" y="99">}</tspan>
+                </text>
+                <text id="element-selector" font-family="IBMPlexSans, IBM Plex Sans" font-size="18" font-weight="normal" fill="#9013FE">
+                    <tspan x="0" y="71">element selector</tspan>
+                </text>
+                <text id="attribute" font-family="IBMPlexSans, IBM Plex Sans" font-size="18" font-weight="normal" fill="#FF009C">
+                    <tspan x="95" y="46">attribute</tspan>
+                </text>
+                <text id="value" font-family="IBMPlexSans, IBM Plex Sans" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="546" y="58">value</tspan>
+                </text>
+                <polyline id="Path-17" stroke="#9013FE" points="234 13 222 13 222 94 234 94"></polyline>
+                <path d="M159.874862,65.6028196 L222.5,65.6028196" id="Path-18" stroke="#9013FE"></path>
+                <path d="M195.933406,41.7340445 L251.5,41.7340445" id="Path-19" stroke="#FF009C"></path>
+                <polyline id="Path-20" stroke="#FF009C" points="260.926904 35.2943314 251.525188 35.2943314 251.525188 75.6146046 260.926904 75.6146046"></polyline>
+                <path d="M440.334989,28.1932748 C485.345622,28.1932748 507.850939,28.1932748 507.850939,28.1932748 C507.850939,28.1932748 507.850939,45.038591 507.850939,78.7292235 L485.501857,78.7292235" id="Path-21" stroke="#000000"></path>
+                <path d="M508.227531,53.7992331 L541.553432,53.7992331" id="Path-22" stroke="#000000"></path>
+                <text id="My-cat’s-name-is-Jer" font-family="IBMPlexSans, IBM Plex Sans" font-size="18" font-weight="normal" fill="#FF009C">
+                    <tspan x="228" y="157">My cat’s name is Jerry.  He </tspan>
+                    <tspan x="228" y="180">really does not enjoy </tspan>
+                    <tspan x="228" y="203">chicken.</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

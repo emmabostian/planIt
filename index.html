@@ -1,0 +1,282 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>How to become a web developer 101</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/custom.css">
+
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Viga" rel="stylesheet">
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section class="title">
+					<h1 class="title__title">How To Build Kick-A** Websites</h1>
+					<p class="title__tagline">Introduction to Front-end Development</p>
+				</section>
+				<section class="intro">
+					<div class="intro__left">
+						<img class="side-label" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-develop	er/145fd192/images/hello.svg" alt="Hello">
+					</div>
+					<div class="intro__right">
+						<h1 class="intro__title">let emma = new Person();</h1>
+						<ul class="intro__list">
+							<li class="intro__list-item">Software Engineer @ LogMeIn 💻</li>
+							<li class="intro__list-item">Prior Front-end Developer @ IBM 📍 Austin, TX</li>
+							<li class="intro__list-item">Cat Mom 😸</li>
+							<li class="intro__list-item">Book Enthusiast 🤓</li>
+						</ul>
+					</div>
+				</section>
+
+				<section class="transition">
+					<section class="transition__slide">
+						<h1 class="transition__title">What is Front-end Development?</h1>
+					</section>
+					<section class="white definition">
+						<p class="definition__text">
+							Front-end development is the practice of developing the face of the web page that users interact with.
+						</p>
+					</section>
+					<section class="white">
+						<img src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/front-end-vs-back-end.png" alt="Front-end vs back-end">
+					</section>
+					<section class="white center">
+						<img  class="width--90" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/front-end-graphic.svg" alt="Front-end vs back-end vs design">
+					</section>
+					<section class="white center">
+						<img class="width--90" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/human.svg" alt="Human as webpage">
+					</section>
+					<section class="white center">
+						<img class="width--90" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/front-end-jobs.svg" alt="Front-end jobs">
+					</section>
+					<section class="white center">
+						<img class="width--90" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/front-end-skills.svg" alt="Front-end skills">
+					</section>
+					<section class="white center">
+						<img class="width--90" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/fed-timeline.svg" alt="Front-end timeline">
+					</section>
+				</section>
+
+				<section class="transition">
+					<section class="transition__slide">
+						<h1 class="transition__title">How Do I Build A Website?</h1>
+					</section>
+					<section class="white definition">
+						<ol class="ol">
+							<li>Write the content in an HTML template</li>
+							<li>Add CSS styling to make it pretty</li>
+							<li>Add JavaScript to trigger actions</li>
+							<li>Host it online</li>
+						</ol>
+					</section>
+					<section class="intro">
+						<div class="intro__left">
+							<img class="side-label" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/html.svg" alt="html">
+						</div>
+						<div class="intro__right">
+							<h1 class="intro__title">&lt;!DOCTYPE html&gt;</h1>
+							<ul class="intro__list">
+								<li class="intro__list-item fragment fade-up mar-left">HTML stands for Hypertext Markup Language</li>
+								<li class="intro__list-item fragment fade-up mar-left">Uses a series of tags to define page structure</li>
+								<li class="intro__list-item fragment fade-up mar-left">DOM, or Document-Object Model, represents the page as a series of nodes so programs can change the structure</li>
+								<li class="intro__list-item fragment fade-up mar-left">The head tag contains meta-data about the program</li>
+								<li class="intro__list-item fragment fade-up mar-left">The body tag contains the visible page content</li>
+							</ul>
+						</div>
+					</section>
+					<section class="white center">
+						<p class="large left">You should always use semantic HTML5 elements (not div & span) to lay out your content.</p>
+					</section>
+					
+					<section class="white">
+						<h1 class="slide__title">Anatomy of an HTML element</h1>
+						<ul class="slide__list">
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold">Opening tag</span> is the name of the element (in this case, p), wrapped in opening and closing angle brackets</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold">Closing tag</span> is the same as the opening tag, except that it includes a forward slash before the element name</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold">Content</span> is the content of the element</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold">Element</span> is the opening tag, the closing tag, and the content</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold">Attribute</span> contain extra information about the element that you don't want to appear in the actual content</li>
+						</ul>
+					</section>
+
+					<section class="white center">
+						<img class="width--90" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/html-example.svg" alt="html example">
+					</section>
+
+					<section class="white">
+						<h1 class="slide__title">Anatomy of an HTML page</h1>
+						<ul class="slide__list">
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold code">&lt;!DOCTYPE html&gt;</span> tells the browser what document type the file is</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold code">&lt;html&gt;</span> wraps all the content on the entire page, and is sometimes known as the root element</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold code">&lt;head&gt;</span> acts as a container for all the stuff you want to include on the HTML page that isn't the content you are showing to your page's viewers</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold code">&lt;body&gt;</span> contains all the content that you want to show to web users when they visit your page</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold code">&lt;title&gt;</span> sets the title of your page, which is the title that appears in the browser tab </li>
+						</ul>
+					</section>
+
+					<section class="intro">
+						<div class="intro__left">
+							<img class="side-label" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/css.svg" alt="html">
+						</div>
+						<div class="intro__right">
+							<h1 class="intro__title">{css}</h1>
+							<ul class="intro__list">
+								<li class="intro__list-item fragment fade-up mar-left">CSS stands for Cascading Style Sheets</li>
+								<li class="intro__list-item fragment fade-up mar-left">Used to describe how elements should be rendered on the screen</li>
+								<li class="intro__list-item fragment fade-up mar-left">Use with HTML elements by adding classes and ids to the element</li>
+							</ul>
+						</div>
+					</section>
+					
+					<section class="white">
+						<h1 class="slide__title">Anatomy of CSS</h1>
+						<ul class="slide__list">
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold">Selector</span> are patterns used to select the element you want to style</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold">Attribute</span> is the property of the selector you want to change</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold">Value</span> is the value you want your attribute to have</li>
+						</ul>
+					</section>
+
+					<section class="white center">
+						<img class="width--90" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/css-example.svg" alt="css example">
+					</section>
+
+					<section class="white">
+						<h1 class="slide__title">Classes & ID</h1>
+						<ul class="slide__list">
+								<li class="intro__list-item fragment fade-up mar-left">Classes and IDs are used to select specific HTML elements</li>
+								<li class="intro__list-item fragment fade-up mar-left">Classes can be used on multiple HTML elements to define a "type" or class of element, and are used in css with a .</li>
+								<li class="intro__list-item fragment fade-up mar-left">IDs can only be used on one HTML element to define a unique item for styling, and are used in css with a #</li>
+						</ul>
+					</section>
+					<section class="white center">
+						<img class="width--55" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/css-example-2.svg" alt="css example">
+					</section>
+					<section class="white center">
+						<img class="width--48" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/css-example-3.svg" alt="css example">
+					</section>
+					<section class="white center">
+						<img class="width--55" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/css-example-5.svg" alt="css example">
+					</section>
+					<section class="white">
+						<h1 class="slide__title">Ways to Include CSS into HTML</h1>
+						<ul class="slide__list">
+								<li class="intro__list-item fragment fade-up mar-left">Inline (not recommended)</li>
+								<li class="intro__list-item fragment fade-up mar-left"><span class="code">&lt;style&gt;</span> within the HTML file</li>
+								<li class="intro__list-item fragment fade-up mar-left">Import from an external stylesheet with <span class="code">&lt;link rel="stylesheet"&gt;</span></li>
+						</ul>
+					</section>
+					<section class="white center">
+						<img class="width--55" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/css-imports.svg" alt="css imports">
+					</section>
+					<section class="white center">
+						<img class="width--30" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/css-imports-2.svg" alt="css imports">
+					</section>
+					<section class="white center">
+						<img class="width--55" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/css-imports-3.svg" alt="css imports">
+					</section>
+					<section class="intro">
+						<div class="intro__left">
+							<img class="side-label side-label--small" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/js.svg" alt="js">
+						</div>
+						<div class="intro__right">
+							<h1 class="intro__title">.js()</h1>
+							<ul class="intro__list">
+								<li class="intro__list-item fragment fade-up mar-left">JavaScript is used to add behavior to web pages</li>
+								<li class="intro__list-item fragment fade-up mar-left">ES6, ECMAScript 6, ES2015</li>
+								<li class="intro__list-item fragment fade-up mar-left">Use event listeners to alter HTML elements</li>
+								<li class="intro__list-item fragment fade-up mar-left">Multi-paradigm language</li>
+								<li class="intro__list-item fragment fade-up mar-left">Loosely typed</li>
+							</ul>
+						</div>
+					</section>
+					<section class="white">
+						<h1 class="slide__title">JS Data Types</h1>
+						<ul class="slide__list">
+							<li class="slide__list-item fragment fade-up mar-left">Boolean</li>
+							<li class="slide__list-item fragment fade-up mar-left">Null</li>
+							<li class="slide__list-item fragment fade-up mar-left">Undefined</li>
+							<li class="slide__list-item fragment fade-up mar-left">Number</li>
+							<li class="slide__list-item fragment fade-up mar-left">String</li>
+							<li class="slide__list-item fragment fade-up mar-left">Object</li>
+							<li class="slide__list-item fragment fade-up mar-left">Symbol</li>
+						</ul>
+					</section>
+					<section class="white center">
+						<img class="width--90" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/js-1.svg" alt="js">
+					</section>
+					<section class="white">
+						<h1 class="slide__title">Const, let var</h1>
+						<ul class="slide__list">
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold code">const </span>means the identifier cannot be re-assigned & declares local block-scope</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold code">let </span>means the variable can be re-assigned & declares local block-scope</li>
+							<li class="slide__list-item fragment fade-up mar-left"><span class="bold code">var </span>declares a variable</li>	
+						</ul>
+					</section>
+					<section class="white center">
+						<img class="width--55" src="https://cdn.rawgit.com/ejbostian/how-to-become-a-web-developer/6e40c4c4/images/js-code.png" alt="js">
+					</section>
+				</section>
+				<section class="transition">
+					<section class="transition__slide">
+						<h1 class="transition__title">So what does this look like in a webpage?</h1>
+					</section>
+					<section class="white center">
+						<a class="example__link" href="https://github.com/ejbostian/kit-fed-example" target="blank">Let's check out an example</a>
+					</section>
+				</section>
+				<section class="transition">
+					<section class="transition__slide">
+						<h1 class="transition__title">Cool...but how can I learn more?</h1>
+					</section>
+					<section class="white">
+						<h1 class="slide__title">Online Courses</h1>
+						<ul class="slide__list">
+							<li class="slide__list-item mar-left">Online courses</li>
+							<li class="slide__list-item mar-left">Blogs</li>
+							<li class="slide__list-item mar-left">Books</li>
+							<li class="slide__list-item mar-left">APIs</li>
+						</ul>
+					</section>
+					<section class="white end">
+						<p>@emmabostian</p>
+						<p>emma.bostian@logmein.com</p>
+					</section>
+				</section>
+			</div>
+		</div>
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="240px" viewBox="0 0 366 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="7" y="60" width="360" height="183"></rect>
+        <rect id="path-2" x="24" y="84" width="326" height="135"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-8" transform="translate(-125.000000, -31.000000)">
+            <g id="Group" transform="translate(124.000000, 28.000000)">
+                <g id="Group-2">
+                    <g id="Rectangle-3">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#979797" stroke-width="1" x="7.5" y="60.5" width="359" height="182"></rect>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#979797" stroke-width="1" x="24.5" y="84.5" width="325" height="134"></rect>
+                    </g>
+                    <rect id="Rectangle-4" stroke="#979797" x="41.5" y="102.5" width="292" height="99"></rect>
+                    <text id="margin" font-family="IBMPlexSans, IBM Plex Sans" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="163" y="56">margin</tspan>
+                    </text>
+                    <text id="border" font-family="IBMPlexSans, IBM Plex Sans" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="164" y="77">border</tspan>
+                    </text>
+                    <text id="padding" font-family="IBMPlexSans, IBM Plex Sans" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="161" y="98">padding</tspan>
+                    </text>
+                    <text id="content" font-family="IBMPlexSans, IBM Plex Sans" font-size="14" font-weight="normal" fill="#4A4A4A">
+                        <tspan x="163" y="157">content</tspan>
+                    </text>
+                    <text id="Box-Model" font-family="IBMPlexSans-Bold, IBM Plex Sans" font-size="14" font-weight="bold" fill="#FF009C">
+                        <tspan x="0" y="14">Box Model</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
