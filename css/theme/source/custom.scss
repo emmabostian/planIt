@@ -1,4 +1,5 @@
 $main-color: #00C56E;
+$text-color: #4A4A4A;
 $title-font: 'Montserrat', sans-serif;
 $content-font: 'Open Sans', sans-serif;
 
@@ -8,6 +9,7 @@ $content-font: 'Open Sans', sans-serif;
 
 body {
   background-color: $main-color;
+  color: $text-color;
 }
 
 section {
@@ -54,14 +56,18 @@ section {
     }
 
     #intro,
-    #solution {
+    #solution,
+    #ux-section,
+    #demo {
       display: flex !important;
       align-items: center !important;
       justify-content: center !important;
     }
 
     #intro-title,
-    #solution-title {
+    #solution-title,
+    #ux-title,
+    #demo-title {
       font-size: 5em;
       color: white;
       font-family: $title-font;
@@ -79,7 +85,7 @@ section {
     }
 
     #goal {
-      background-color: white;
+      background-color: white !important;
       display: flex !important;
       position: relative;
       justify-content: center;
@@ -99,16 +105,70 @@ section {
       font-size: 3em;
       line-height: 1.6em;
       margin: 0px 50px;
+      width: 70%;
     }
 
-    #users {
+    #product,
+    #method,
+    #ux,
+    #user-flow,
+    #gamify,
+    #system,
+    #alternatives {
+      background-color: white !important;
       display: flex !important;
       justify-content: center;
       align-items: center;
     }
 
-    #users-image {
-      width: 85vw;
+    #product-text {
+      font-size: 3em;
+      line-height: 1.6em;
+      margin: 0px 50px;
+      width: 40%;
+    }
+
+    #product-title,
+    #method-title,
+    #user-flow-title,
+    #gamify-title,
+    #system-title,
+    #alternatives-title {
+      position: absolute;
+      top: 50px;
+      left: 50px;
+      color: $main-color;
+      font-family: $title-font;
+      font-size: 5em;
+    }
+
+    #gamify-img,
+    #system-img
+     {
+      width: 50%;
+    }
+
+    #alternatives-img {
+      height: 90%;
+    }
+
+    #method-list {
+      text-align: left;
+      font-size: 3em;
+      margin-left: 100px;
+      width: 70%;
+
+      > li {
+        margin-bottom: 30px;
+      }
+    }
+
+    #fall {
+      width: 40%;
+    }
+
+    .green {
+      color: $main-color !important;
     }
   }
 }

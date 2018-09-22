@@ -2,7 +2,8 @@
   font-family: "Open Sans", sans-serif; }
 
 body {
-  background-color: #00C56E; }
+  background-color: #00C56E;
+  color: #4A4A4A; }
 
 section {
   height: 100% !important; }
@@ -37,12 +38,16 @@ section {
     width: 150px;
     height: 50px; }
   .reveal .slides #intro,
-  .reveal .slides #solution {
+  .reveal .slides #solution,
+  .reveal .slides #ux-section,
+  .reveal .slides #demo {
     display: flex !important;
     align-items: center !important;
     justify-content: center !important; }
   .reveal .slides #intro-title,
-  .reveal .slides #solution-title {
+  .reveal .slides #solution-title,
+  .reveal .slides #ux-title,
+  .reveal .slides #demo-title {
     font-size: 5em;
     color: white;
     font-family: "Montserrat", sans-serif; }
@@ -54,7 +59,7 @@ section {
     height: 85vh;
     width: 100vw; }
   .reveal .slides #goal {
-    background-color: white;
+    background-color: white !important;
     display: flex !important;
     position: relative;
     justify-content: center;
@@ -69,10 +74,49 @@ section {
   .reveal .slides #goal-text {
     font-size: 3em;
     line-height: 1.6em;
-    margin: 0px 50px; }
-  .reveal .slides #users {
+    margin: 0px 50px;
+    width: 70%; }
+  .reveal .slides #product,
+  .reveal .slides #method,
+  .reveal .slides #ux,
+  .reveal .slides #user-flow,
+  .reveal .slides #gamify,
+  .reveal .slides #system,
+  .reveal .slides #alternatives {
+    background-color: white !important;
     display: flex !important;
     justify-content: center;
     align-items: center; }
-  .reveal .slides #users-image {
-    width: 85vw; }
+  .reveal .slides #product-text {
+    font-size: 3em;
+    line-height: 1.6em;
+    margin: 0px 50px;
+    width: 40%; }
+  .reveal .slides #product-title,
+  .reveal .slides #method-title,
+  .reveal .slides #user-flow-title,
+  .reveal .slides #gamify-title,
+  .reveal .slides #system-title,
+  .reveal .slides #alternatives-title {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    color: #00C56E;
+    font-family: "Montserrat", sans-serif;
+    font-size: 5em; }
+  .reveal .slides #gamify-img,
+  .reveal .slides #system-img {
+    width: 50%; }
+  .reveal .slides #alternatives-img {
+    height: 90%; }
+  .reveal .slides #method-list {
+    text-align: left;
+    font-size: 3em;
+    margin-left: 100px;
+    width: 70%; }
+    .reveal .slides #method-list > li {
+      margin-bottom: 30px; }
+  .reveal .slides #fall {
+    width: 40%; }
+  .reveal .slides .green {
+    color: #00C56E !important; }

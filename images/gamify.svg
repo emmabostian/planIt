@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="566" height="260" viewBox="0 0 566 260">
+  <defs>
+    <filter id="gamify-a" width="104.1%" height="108.5%" x="-2.1%" y="-3.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="gamify-c" cy="0%" r="100%" fx="50%" fy="0%" gradientTransform="matrix(0 1 -.0607 0 .5 -.5)">
+      <stop offset="0%" stop-color="#9AEAC3"/>
+      <stop offset="100%" stop-color="#9AEAC3"/>
+    </radialGradient>
+    <rect id="gamify-b" width="153.441" height="9.313" x="260.267" y="179.932" rx="3.5"/>
+    <text id="gamify-e" fill="#FFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="15" font-weight="bold" letter-spacing=".6">
+      <tspan x="260" y="170">LEVEL 2</tspan>
+    </text>
+    <filter id="gamify-d" width="110.8%" height="177.8%" x="-5.4%" y="-27.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+    <text id="gamify-g" fill="#FFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="15" font-weight="bold" letter-spacing=".6">
+      <tspan x="495" y="170">25</tspan>
+    </text>
+    <filter id="gamify-f" width="148.2%" height="177.8%" x="-24.1%" y="-27.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#gamify-a)" transform="translate(7 -19)">
+    <g transform="translate(0 24)">
+      <rect width="551.611" height="245.875" fill="#00C56E" fill-rule="nonzero" rx="2"/>
+      <text fill="#FFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold" letter-spacing="-.48">
+        <tspan x="305.042" y="93.895">Leaves</tspan>
+      </text>
+      <polygon fill="#97D8B8" fill-rule="nonzero" points="69.922 124.8 69.922 197.445 89.345 178.588 108.768 197.445 108.768 124.8" transform="rotate(25 89.345 161.122)"/>
+      <polygon fill="#9AEAC3" fill-rule="nonzero" points="110.711 126.663 110.711 199.307 130.133 180.451 149.556 199.307 149.556 126.663" transform="rotate(-25 130.133 162.985)"/>
+      <ellipse cx="109.739" cy="82.89" fill="#F1F1F1" fill-rule="nonzero" rx="65.067" ry="62.4"/>
+      <ellipse cx="109.739" cy="82.89" fill="#F8F8F8" fill-rule="nonzero" rx="45.547" ry="43.68"/>
+      <path fill="#00C56E" fill-rule="nonzero" d="M125.337192,89.5191121 L141.639836,77.5072546 C142.832712,76.6174874 142.236274,74.7743982 140.712043,74.7108434 L120.433145,74.2024049 C119.969249,74.2024049 119.505353,73.8846309 119.372811,73.4397473 L112.414365,54.8181905 C111.884198,53.4199849 109.896071,53.4199849 109.365904,54.8181905 L102.606271,73.1855281 C102.473729,73.6304117 102.009833,73.9481857 101.545937,73.9481857 L80.9356844,74.4566241 C79.4114535,74.520179 78.8150153,76.3632682 80.0078916,77.2530354 L96.1117222,89.1377833 C96.5093476,89.3920025 96.6418894,89.9004409 96.5093476,90.3453245 L90.6775078,109.284655 C90.2136114,110.682861 91.8703841,111.826847 93.1295313,111.000635 L109.896071,99.9420996 C110.293696,99.6878803 110.823864,99.6878803 111.221489,99.9420996 L128.186841,111.127745 C129.445989,111.953957 131.102761,110.809971 130.638865,109.411765 L124.873296,90.7266533 C124.807025,90.2817697 124.939567,89.7733313 125.337192,89.5191121 Z"/>
+      <ellipse cx="33.019" cy="37.254" fill="#FFF" fill-rule="nonzero" rx="1.942" ry="11.176"/>
+      <ellipse cx="33.877" cy="36.994" fill="#FFF" fill-rule="nonzero" rx="1.942" ry="11.176" transform="rotate(90 33.877 36.994)"/>
+      <ellipse cx="180.633" cy="165.779" fill="#F8E71C" fill-rule="nonzero" rx="1.942" ry="11.176"/>
+      <ellipse cx="181.492" cy="165.519" fill="#F8E71C" fill-rule="nonzero" rx="1.942" ry="11.176" transform="rotate(90 181.492 165.52)"/>
+      <ellipse cx="28.163" cy="92.203" fill="#F8E71C" fill-rule="nonzero" rx="1" ry="4.657"/>
+      <ellipse cx="28.163" cy="92.203" fill="#F8E71C" fill-rule="nonzero" rx="1" ry="4.657" transform="rotate(90 28.163 92.203)"/>
+      <ellipse cx="57.298" cy="149.946" fill="#F8E71C" fill-rule="nonzero" rx="1" ry="4.657"/>
+      <ellipse cx="57.298" cy="149.946" fill="#F8E71C" fill-rule="nonzero" rx="1" ry="4.657" transform="rotate(90 57.298 149.946)"/>
+      <ellipse cx="199.223" cy="47.724" fill="#FFF" fill-rule="nonzero" rx="1" ry="6.519"/>
+      <ellipse cx="199.223" cy="47.724" fill="#FFF" fill-rule="nonzero" rx="1" ry="6.519" transform="rotate(90 199.223 47.724)"/>
+      <ellipse cx="194.636" cy="106.688" fill="#FFF" fill-rule="nonzero" rx="1" ry="6.519"/>
+      <ellipse cx="194.636" cy="106.688" fill="#FFF" fill-rule="nonzero" rx="1" ry="6.519" transform="rotate(90 194.636 106.688)"/>
+      <ellipse cx="153.848" cy="220.312" fill="#FFF" fill-rule="nonzero" rx="1" ry="6.519"/>
+      <ellipse cx="153.848" cy="220.312" fill="#FFF" fill-rule="nonzero" rx="1" ry="6.519" transform="rotate(90 153.848 220.312)"/>
+      <ellipse cx="111.117" cy="203.548" fill="#F8E71C" fill-rule="nonzero" rx="1" ry="6.519"/>
+      <ellipse cx="111.117" cy="203.548" fill="#F8E71C" fill-rule="nonzero" rx="1" ry="6.519" transform="rotate(90 111.117 203.548)"/>
+      <ellipse cx="21.772" cy="142.079" fill="#FFF" fill-rule="nonzero" rx="1" ry="6.519"/>
+      <ellipse cx="21.772" cy="142.079" fill="#FFF" fill-rule="nonzero" rx="1" ry="6.519" transform="rotate(90 21.772 142.08)"/>
+      <ellipse cx="44.601" cy="206.944" fill="#FFF" fill-rule="nonzero" rx="1.663" ry="11.162"/>
+      <ellipse cx="44.601" cy="206.944" fill="#FFF" fill-rule="nonzero" rx="1.663" ry="11.162" transform="rotate(90 44.6 206.944)"/>
+      <text fill="#FFF" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold" letter-spacing="-.48">
+        <tspan x="258.325" y="93.384">18</tspan>
+      </text>
+      <text fill="#FFF" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="25" font-weight="300" letter-spacing="-.6">
+        <tspan x="258.325" y="133.581">You’re doing great!</tspan>
+      </text>
+      <rect width="264.152" height="9.313" x="260.267" y="179.932" fill="#FFF" fill-rule="nonzero" rx="3.5"/>
+      <g fill-rule="nonzero">
+        <use fill="#FFF" xlink:href="#gamify-b"/>
+        <use fill="url(#gamify-c)" xlink:href="#gamify-b"/>
+      </g>
+      <g fill="#FFF">
+        <use filter="url(#gamify-d)" xlink:href="#gamify-e"/>
+        <use xlink:href="#gamify-e"/>
+      </g>
+      <g fill="#FFF">
+        <use filter="url(#gamify-f)" xlink:href="#gamify-g"/>
+        <use xlink:href="#gamify-g"/>
+      </g>
+    </g>
+    <rect width="119" height="28" x="406" y="223" fill="#F8F8F8" fill-rule="nonzero" rx="3"/>
+    <text fill="#7E7E7E" font-family="OpenSans-Light, Open Sans" font-size="15" font-weight="300">
+      <tspan x="425" y="243">Learn more</tspan>
+    </text>
+  </g>
+</svg>
