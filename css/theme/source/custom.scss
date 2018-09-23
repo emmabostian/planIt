@@ -114,7 +114,8 @@ section {
     #user-flow,
     #gamify,
     #system,
-    #alternatives {
+    #alternatives,
+    #thanks {
       background-color: white !important;
       display: flex !important;
       justify-content: center;
@@ -140,6 +141,21 @@ section {
       color: $main-color;
       font-family: $title-font;
       font-size: 5em;
+    }
+
+    #thanks {
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+
+    #thanks-title {
+      font-size: 3em !important;
+      color: $main-color !important;
+    }
+
+    #faces {
+      width: 90vw;
     }
 
     #gamify-img,

@@ -82,7 +82,8 @@ section {
   .reveal .slides #user-flow,
   .reveal .slides #gamify,
   .reveal .slides #system,
-  .reveal .slides #alternatives {
+  .reveal .slides #alternatives,
+  .reveal .slides #thanks {
     background-color: white !important;
     display: flex !important;
     justify-content: center;
@@ -104,6 +105,15 @@ section {
     color: #00C56E;
     font-family: "Montserrat", sans-serif;
     font-size: 5em; }
+  .reveal .slides #thanks {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; }
+  .reveal .slides #thanks-title {
+    font-size: 3em !important;
+    color: #00C56E !important; }
+  .reveal .slides #faces {
+    width: 90vw; }
   .reveal .slides #gamify-img,
   .reveal .slides #system-img {
     width: 50%; }
